@@ -1,0 +1,3 @@
+include ':smsotpprovider'
+include ':app'
+rootProject.name = "SampleApplication"
